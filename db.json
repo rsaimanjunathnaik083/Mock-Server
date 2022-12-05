@@ -21,9 +21,5 @@
             "eval_score": "8",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSu0pHL3HRJzWrneWZ1Wnm6ePOoMfllruVgg&usqp=CAU"
         }
-      ],
-      "comments": [
-        { "id": 1, "body": "some comment", "postId": 1 }
-      ],
-      "profile": { "name": "typicode" }
+      ]
   }
