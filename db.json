@@ -5,29 +5,25 @@
         "name": "Gertrudis Tatterton",
         "age": 18,
         "email": "gtatterton0@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
       }
     ],
     "products":[
         {
             "name": "jeans"
         }
-    ]
+    ],
+    "posts": [
+        {
+            "id": "1",
+            "name": "Gertrudis Tatterton",
+            "batch": "web20",
+            "section": "B20",
+            "score": "8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSu0pHL3HRJzWrneWZ1Wnm6ePOoMfllruVgg&usqp=CAU"
+        }
+      ],
+      "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 }
+      ],
+      "profile": { "name": "typicode" }
   }
